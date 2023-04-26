@@ -12,9 +12,9 @@
 
 ![Imagem de clonagem de repositório no GitHub](https://firebasestorage.googleapis.com/v0/b/assets-conteudo.appspot.com/o/gerais%2Fclone-repo.png?alt=media&token=d8b3c101-c6d4-4371-b018-ae4edec7e34c)
 
-1. **Crie uma nova branch: `git checkout -b** turma-nome-sobrenome-aXXX`
-2. **Implemente o projeto na branch** `turma-nome-sobrenome-aXXX`. Lembre-se de fazer os adds e commits.
-3. **Dê push com: `git push origin** turma-nome-sobrenome-aXXX`
+1. **Crie uma nova branch: `git checkout -b** turma-nome-sobrenome-dom-ii`
+2. **Implemente o projeto na branch** `turma-nome-sobrenome-dom-ii`. Lembre-se de fazer os adds e commits.
+3. **Dê push com: `git push origin** turma-nome-sobrenome-dom-ii`
 
 **Siga os passos abaixo ao terminar seu projeto, para enviá-lo:**
 

@@ -8,3 +8,8 @@ function adicionaItem(){
      getItem.insertAdjacentElement('beforebegin',criarItem)
      console.log(getItem);
 }
+
+function removeItem(event) {
+     let item = document.getElementsByClassName('item')[0]
+     item.remove()
+}
